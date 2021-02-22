@@ -1,0 +1,18 @@
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto auto auto auto auto;
+}
+
+.grid-container > div {
+  text-align: center;
+  padding: 2px 0;
+}
+
+.item2 {
+  grid-column: 2 / span 6;
+}
+
+.cart-div{
+  overflow-y: scroll;
+  max-height: 250px;
+}

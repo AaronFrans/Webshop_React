@@ -1,0 +1,22 @@
+.grid-form {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+}
+
+.grid-confirm-item {
+  display: grid;
+  grid-template-columns: auto auto auto;
+}
+
+.grid-container > div {
+  text-align: center;
+  padding: 5px;
+}
+
+.container-item{
+    margin: 5px;
+}
+
+input{
+    margin: 5px, 5px;
+}

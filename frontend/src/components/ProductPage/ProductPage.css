@@ -1,0 +1,33 @@
+.card{
+    border-radius: 5px;
+    border: 2px solid black;
+    padding: 5px;
+    width: auto;
+    overflow-wrap: break-word;
+}
+
+td{
+    padding: 5px;
+    max-width: 16rem;
+    word-wrap: break-word;
+}
+
+.price-text{
+    font-weight: bold;
+    text-align: right;
+
+}
+
+.card-ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.card-li{
+    display: inline-block;
+    margin: 1%;
+}
+
+
+
+
